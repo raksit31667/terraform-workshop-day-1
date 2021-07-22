@@ -15,4 +15,4 @@
   - Resource dependency
 
 ## References
-[AWS tutorials](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
+[AWS tutorials: Module 3: Serverless Service Backend](https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-3/)
